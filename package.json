@@ -5,6 +5,7 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "glyphicons": "^0.2.0",
+    "jquery": "^1.9.1",
     "react": "^16.8.6",
     "react-bootstrap-button-loader": "^2.0.0",
     "react-bootstrap-dropdown-menu": "^1.1.15",
